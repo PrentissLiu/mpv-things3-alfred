@@ -3,7 +3,7 @@
 
 > 一个通过 Alfred 联动 mpv 和 Things 3 的自动化流程，可以方便地记录和恢复视频的播放进度、速度及窗口状态。
 
-!(workflow.png)[workflow.png]
+![workflow.png](workflow.png)
 
 ## 功能简介
 
